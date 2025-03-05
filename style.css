@@ -1,0 +1,19 @@
+.container{
+    border: 2px dotted red;
+    padding: 20px;
+    margin: 5% auto;
+    width: 50%;
+    border-radius: 40px;
+    background-color: black;
+
+
+}
+
+.inner-container{
+    border: solid 2px paleturquoise;
+    font-style: italic;
+    text-align: center;
+    color: black;
+    background-color: white;
+
+}
